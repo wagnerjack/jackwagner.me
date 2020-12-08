@@ -1,0 +1,34 @@
+.navbar {
+    text-transform: uppercase;
+    font-family: 'Dosis', sans-serif;
+}
+.navbar-brand {
+    font-weight: 600;
+}
+.intro {
+    margin-top: 4em;
+}
+.intro-text {
+    width: 4em;
+}
+#intro-headshot {
+    border-radius: 50%;
+    width: 12em;
+    height: 12em;
+}
+ul {
+    padding-left: 2.7em;
+    list-style-type: none;
+    width: 100%;
+    font-family: 'Dosis', sans-serif;
+    font-weight: 600;
+}
+li {
+    margin-top: .8em;
+    margin-bottom: .8em;
+}
+.icon {
+    height: 1em;
+    width: 1em;
+    margin-right: 0.48em;
+}
