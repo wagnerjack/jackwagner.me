@@ -54,3 +54,28 @@ li {
     margin: auto;
     align-content: center;
 }
+.projects-title {
+    font-family: 'Dosis', sans-serif;
+    font-weight: 600;
+    text-transform: uppercase;
+    font-size: 2.7em;
+}
+
+
+
+.bottom-info {
+    background-color: silver;
+    padding-top: 2em;
+    padding-bottom: 2em;
+}
+.bottom-info .container {
+    padding-bottom: 1.4em;
+}
+.bottom-info .container img {
+    padding-left: 1em;
+    padding-right: 1em;
+}
+.bottom-email {
+    font-family: 'Dosis', sans-serif;
+    text-decoration: none;
+}
